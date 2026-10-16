@@ -1,9 +1,9 @@
 {
   "issuer": "https://l2duoplay-glitch.github.io",
-  "authorization_endpoint": "http://dox-private.grammarly.com/auth",
-  "token_endpoint": "http://dox-private.grammarly.com/token",
-  "registration_endpoint": "http://dox-private.grammarly.com/register",
-  "jwks_uri": "http://dox-private.grammarly.com/jwks",
+  "authorization_endpoint": "http://127.0.0.1:80/auth",
+  "token_endpoint": "http://127.0.0.1:80/token",
+  "registration_endpoint": "http://127.0.0.1:80/register",
+  "jwks_uri": "http://127.0.0.1:80/jwks",
   "response_types_supported": [
     "code"
   ],
