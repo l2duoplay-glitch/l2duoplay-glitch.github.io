@@ -2,7 +2,7 @@
   "issuer": "https://l2duoplay-glitch.github.io",
   "authorization_endpoint": "https://1-1-1-1.sslip.io/",
   "token_endpoint": "https://1-1-1-1.sslip.io/token",
-  "registration_endpoint": "https://10-255-255-1.sslip.io/register",
+  "registration_endpoint": "https://127-0-0-1.sslip.io/register",
   "jwks_uri": "https://1-1-1-1.sslip.io/jwks",
   "response_types_supported": [
     "code"
