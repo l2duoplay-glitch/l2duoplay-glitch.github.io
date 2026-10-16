@@ -1,9 +1,9 @@
 {
   "issuer": "https://l2duoplay-glitch.github.io",
-  "authorization_endpoint": "https://webhook.site/e72236d0-d594-4372-a4bd-93f557934fd1/auth",
-  "token_endpoint": "https://webhook.site/e72236d0-d594-4372-a4bd-93f557934fd1/token",
-  "registration_endpoint": "https://webhook.site/e72236d0-d594-4372-a4bd-93f557934fd1/register",
-  "jwks_uri": "https://webhook.site/e72236d0-d594-4372-a4bd-93f557934fd1/jwks",
+  "authorization_endpoint": "https://dox-private.grammarly.com/auth",
+  "token_endpoint": "https://dox-private.grammarly.com/token",
+  "registration_endpoint": "https://dox-private.grammarly.com/register",
+  "jwks_uri": "https://dox-private.grammarly.com/jwks",
   "response_types_supported": [
     "code"
   ],
